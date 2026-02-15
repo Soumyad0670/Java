@@ -5,6 +5,10 @@ class Dog {
     public String toString() { 
         return "Dog name: " + name;
     }
+
+    Object Labrador() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }
 
 public class Object_class {
